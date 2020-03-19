@@ -1,0 +1,29 @@
+#header
+{
+    height=50px;
+    background:#10284e;
+    color: #ffffff;
+}
+
+#branding h1
+{
+    color:#fff;
+}
+
+
+
+div.breadcrumbs
+{
+    background: aqua;
+    color:#fff3cd;
+}
+div.breadcrumbs a
+
+{
+    color:#062c33;
+}
+.module h2, .module caption, .inline-group h2
+{
+    background: #1ba87e;
+}
+
